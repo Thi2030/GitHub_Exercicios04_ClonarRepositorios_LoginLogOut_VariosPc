@@ -2,15 +2,18 @@
 
 Objetivos:
   
- 1. ClonarRepositorios.
- 2. Login e LogOut em Varios PC diferentes (Faculdade, Trabalho, etc)..
+ 1. Clonar Repositórios.
 
- 1. ClonarRepositorios.
- Existe a possiblidade de baixar (pasta em zip), mas terá que gerenciar manualmente.
- Outra opção de baixar de forma automatizada é CLONANDO O PROJETO. Para isso, faça:
+ 2. Login e Logout em Vários PC diferentes (Faculdade, Trabalho etc.).
+
+ 1. Clonar Repositórios.
  
- Abrir o projeto desejado
- Botão Code <> (Parte superior direita).
- Open with GitHub Desktop
- Selecionar pasta onde quer salvar o repositorio clonado.
- Clonar (Fará o download).
+    Existe a possiblidade de baixar (pasta em zip), mas terá que gerenciar manualmente.
+    Outra opção de baixar de forma automatizada é CLONANDO O PROJETO. Para isso, faça:
+ 
+        a)	Abrir o projeto desejado
+        b)	Botão Code <> (Parte superior direita).
+        c)	Open with GitHub Desktop
+        d)	Selecionar pasta onde quer salvar o repositório clonado.
+        e)	Clonar (Fará o download).
+
